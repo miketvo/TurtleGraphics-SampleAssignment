@@ -7,6 +7,10 @@
 
 ### Problem 2:
  Write a Python program that asks the user to enter a list of numbers. Then using Turtle module to draw a pie chart representing the percentage of each number in the whole sum of the list. The percentage number should be rounded to 1 decimal place.
-
+ 
+## Notice:
+ Due to a communication issue on Canvas, a lot of students in this course have mistaken this for the official assignment while this is just a sample taken from previous semester. This is my implementation for the two problems mentioned in the sample assignment. Currently it has no optimizations and I have no plan to optimize the code due to time constraint and schoolwork.
+ 
 # Changelog
  - 11/22/2020: Initial commit
+ - 11/25/2020: Made repository public, modified README.md
