@@ -1,4 +1,4 @@
-# COSC2429 Assignment: Turtle Graphics
+# COSC2429 Assignment: Turtle Graphics Sample Assignment
  RMIT University Vietnam, Semester 3 - 2020
 
 # Assessment Details
